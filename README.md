@@ -7,6 +7,26 @@
 - 🌱 In constant knowledge search of front-end technologies and also a Front-end Job
 - 💙 Interest: HTML, CSS, JavaScript, Nodejs and Front-end Technologies.
 
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="135"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jpdsj&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="135"
+      src="https://github-readme-stats.vercel.app/api?username=Jpdsj&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
 ## Skills :nerd_face:
 <p align="center">
