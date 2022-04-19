@@ -4,8 +4,8 @@
 
 - 🙋🏻‍♂️ I'm Junior.
 - 👨‍💻 System Analist
-- 🌱 In constant knowledge search of front-end technologies and also a Front-end Job
-- 💙 Interest: HTML, CSS, JavaScript, Nodejs and Front-end Technologies.
+- 🌱 In constant knowledge search of any technologies
+- 💙 Interest: HTML, CSS, JavaScript, Nodejs and Devops Technologies.
 
 <p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
