@@ -3,7 +3,7 @@
 ### About me
 
 - 🙋🏻‍♂️ I'm Junior.
-- 👨‍💻 System Analist
+- 👨‍💻 Developer
 - 🌱 In constant knowledge search of any technologies
 - 💙 Interest: HTML, CSS, JavaScript, Nodejs and Devops Technologies.
 
